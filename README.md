@@ -1,5 +1,5 @@
 ## Welcome! I'm Areena Akhter (she/her). :woman_technologist:
-**I'm a Computer Science student in my last year at the University of Waterloo, with a passion for understanding how, and why, we think the way that we do. Next fall, I'm heading back to Apple to work for their Camera and Photo Storytelling team. **
+**I'm a Computer Science student in my last year at the University of Waterloo, with a passion for understanding how, and why, we think the way that we do. Next fall, I'm heading back to Apple to work for their Camera and Photo Storytelling team.**
 
 🔭 **I’m currently working on:** studying neural networks, approaches to cognitive science, and why technology was inherently built **against** the interests of underrepresented populations in my 4A term of Computer Science.
 
